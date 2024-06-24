@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "backend",
     "version": "1.0.0",
     "description": "",
@@ -14,3 +15,16 @@
     }
   }
   
+=======
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
+>>>>>>> 549f334c10628d7211361f2b7f5b7d38cffb7d3e
